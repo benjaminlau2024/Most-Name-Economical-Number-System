@@ -11,7 +11,9 @@ The Base System That Requires the Fewest Naming Symbols (0–1000Integers)
 >**Examples:**
 > 
 >If a = 10, we need 10 words for the digits (0–9), plus words for 10, 100, and 1000, totaling 13.
+> 
 >If a = 20, we need 20 digit names (0–19), plus names for 20 and 400, totaling 22.
+> 
 >If a = 100, we need 100 digit names and one unit (100), totaling 101.
 
 ---
