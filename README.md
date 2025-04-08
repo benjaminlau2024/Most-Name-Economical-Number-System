@@ -91,7 +91,7 @@ Feel free to ⭐ star or fork this repo if you found it interesting or useful!
 
 ---
 
-## 📄 经典题目中文解释
+## 📄 中文解释
 
 > **问题**：  
 > 考虑用 a 进制表示整数的情况，要给 0 到 1000 内的所有数字命名，需要给 a 的基本数字 (0 ~ a-1)和 a 的各级次方形式指定名称，即 $a^1$, $a^2$, $a^3$ 等等都需要有名字。
