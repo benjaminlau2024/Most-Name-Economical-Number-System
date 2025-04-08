@@ -73,8 +73,8 @@ You’ll see the word count per base and the one that minimizes the total.
 
 ## 🏷️ Project Name
 
-**English**: _Minimal Base Naming System_  
-**中文**：_最简进位制命名系统_
+**English**: _The Base System That Requires the Fewest Naming Symbols (0–1000Integers)_  
+**中文**：_最省名称的进位制系统（用于0–1000的整数表示）_
 
 ---
 
