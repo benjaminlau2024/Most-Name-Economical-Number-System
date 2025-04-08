@@ -7,12 +7,10 @@ The Base System That Requires the Fewest Naming Symbols (0–1000Integers)
 >Consider the representation of integers in a positional numeral system with base a. In order to name the numbers in this system, we need distinct words for the digits 0, 1, ..., a − 1, as well as for the powers of a: a, a², a³, and so on.
 >How many different number words are needed to name all integers from 0 to 1000, for a = 2, 3, 4, ..., 15?
 >Which base requires the fewest total number words?
->Examples:
-
+> 
+>**Examples:**
 >If a = 10, we need 10 words for the digits (0–9), plus words for 10, 100, and 1000, totaling 13.
-
 >If a = 20, we need 20 digit names (0–19), plus names for 20 and 400, totaling 22.
-
 >If a = 100, we need 100 digit names and one unit (100), totaling 101.
 
 ---
