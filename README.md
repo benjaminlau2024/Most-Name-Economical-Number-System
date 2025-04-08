@@ -62,8 +62,8 @@ You'll see the word count per base and which one minimizes the total.
 
 ## 📁 Files
 
-- `minimal_base_name.py` — Python version
-- `baseNameCalculator.js` — JavaScript version
+- `minimal_naming_units.py` — Python version
+- `minimal_naming_units.js` — JavaScript version
 - `README.md` — project introduction and usage
 
 ---
