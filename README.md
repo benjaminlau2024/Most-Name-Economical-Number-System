@@ -1,6 +1,6 @@
-# 最省名称的进位制系统（用于0–1000的整数表示）
+最省名称的进位制系统（用于0–1000的整数表示）
 
-# 🔢 The Base System That Requires the Fewest Naming Symbols (0–1000Integers)
+ The Base System That Requires the Fewest Naming Symbols (0–1000Integers)
 
 This problem originates from the end of Chapter 1 of the book "What is Mathematics?" by Richard Courant and Herbert Robbins.
 
