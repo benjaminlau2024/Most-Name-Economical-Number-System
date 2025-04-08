@@ -3,7 +3,7 @@
 The Base System That Requires the Fewest Naming Symbols (0–1000Integers)
 > **How many different number words are needed to name all integers from 0 to 1000 in various bases (from base 2 to 15)?**
 >
->This problem originates from the end of Chapter 1 of the book 《What is Mathematics》 by Richard Courant and Herbert Robbins.
+>This problem originates from the end of Chapter 1 of the book 《 What is Mathematics 》 by Richard Courant and Herbert Robbins.
 > 
 >Consider the representation of integers in a positional numeral system with base a. In order to name the numbers in this system, we need distinct words for the digits 0, 1, ..., a − 1, as well as for the powers of a: a, a², a³, and so on.
 > 
